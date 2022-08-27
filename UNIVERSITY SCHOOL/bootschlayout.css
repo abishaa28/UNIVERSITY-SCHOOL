@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}.listnav{
+    background-color: 333333;
+}
+.inputlist li{
+    background-color:d6e7bd; 
+}
+li{
+    list-style: none;
+}
+.header{
+    background-color:d6e7bd ;
+}
+.boxcontent1{
+    background-color: f3f2ee;
+}
+a{
+    color: 6c9e33;
+}
+.footer{
+    background-color:777777 ;
+}
+span{
+    color: 6c9e33;
+}
+h4{
+    color: 666666;
+}
+.boxcontent2{
+    background-color:333333;
+}
+.clcontent li{
+    color: ffffff;
+}
+.aucontent{
+    margin-top: 30px;
+}
+.latestcontent{
+    margin-top: 30px;
+}
+.clcontent{
+    margin-top: 30px;
+}
+.innerbox2 a{
+    margin-left: 25%;
+}
+.rowclass{
+    margin:0px
+}
+.flyingbox{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+@media (max-width: 767px){
+    .parentdiv{
+       width: 100%;
+       margin: 0 auto;
+     }
+}
